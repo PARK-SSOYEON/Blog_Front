@@ -40,7 +40,6 @@ const PostList = () => {
 
 export default PostList;
 
-
 const List = styled.div`
     padding: 20px;
     overflow-y: auto;

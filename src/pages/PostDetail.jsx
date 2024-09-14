@@ -6,7 +6,6 @@ import EditPostButton from "../components/EditPostButton.jsx";
 import DeletePostButton from "../components/DeletePostButton.jsx";
 import { formatDateToKoreanTime } from '../services/formatDateToKoreanTime'
 
-
 const PostDetail = () => {
     const { id } = useParams();
     const [post, setPost] = useState(null);

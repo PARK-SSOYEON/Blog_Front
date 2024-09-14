@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Route, Routes, useLocation} from 'react-router-dom';
+import {BrowserRouter as Route, Routes, useLocation} from 'react-router-dom';
 import {GlobalStyle} from './styles/global-styles';
 import styled from 'styled-components';
 import PostList from './pages/PostList.jsx'

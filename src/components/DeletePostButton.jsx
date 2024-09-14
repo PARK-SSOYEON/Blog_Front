@@ -8,7 +8,6 @@ const DeletePostButton = ({post}) => {
     const navigate = useNavigate();
     const { id } = useParams();
 
-
     const handleClick = async() => {
         await axios.delete(`http://localhost:3001/contents/${id}`);
         alert('게시글이 성공적으로 삭제되었습니다.');
