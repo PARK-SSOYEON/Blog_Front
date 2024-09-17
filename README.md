@@ -32,7 +32,7 @@ project-root/
 │ │     └── postsService.js
 │ ├── styles/
 │ │     └── global-styles.js
-│ ├── App.jsx
+│ ├── App.jsx
 │ └── Main.jsx
 ├── package.json
 └── README.md
