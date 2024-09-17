@@ -40,8 +40,7 @@ project-root/
 
 ## 예시 (Screenshot)
 
-<img src="img/TodoListReactscreenshot.gif" width="720" height=auto/>
-추후 첨부
+<img src="pulice/blog_example.gif" width="1080" height=auto/>
 
 ## 기능 (Features)
 1. 우측 상단 '+' 버튼을 누르면 제목과 본문을 작성할 수 있습니다.
